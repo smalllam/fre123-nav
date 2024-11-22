@@ -5,14 +5,14 @@
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "云服务器-国内",
+				"tab_name": "云服务器-海外",
 				"details": [
 					{
-						"title": "微博热搜",
-						"ori_url": "https://s.weibo.com/top/summary",
-						"url": "https://www.fre123.com/news/weibo",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
-						"description": "与世界分享你的瞬间 ",
+						"title": "甲骨文云",
+						"ori_url": "https://www.oracle.com/cn/cloud/free/",
+						"url": "https://www.oracle.com/cn/cloud/free/",
+						"icon": "https://dh.kejilion.pro/wp-content/uploads/2022/07/baipiaoqun.jpg",
+						"description": "永久免费 ",
 						"suffix": false,
 						"is_show": true
 					},
