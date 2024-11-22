@@ -17,11 +17,11 @@
 						"is_show": true
 					},
 					{
-						"title": "今日头条",
-						"ori_url": "https://www.toutiao.com/",
-						"url": "https://www.fre123.com/news/toutiao",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f276c1711f.png",
-						"description": "个性化资讯推荐",
+						"title": "亚马逊云",
+						"ori_url": "https://portal.aws.amazon.com/billing/signup#/start/email",
+						"url": "https://portal.aws.amazon.com/billing/signup#/start/email",
+						"icon": "https://dh.kejilion.pro/wp-content/uploads/2024/02/images-3.jpg",
+						"description": "免费1年",
 						"suffix": false,
 						"is_show": true
 					},
@@ -35,20 +35,20 @@
 						"is_show": true
 					},
 					{
-						"title": "腾讯新闻",
-						"ori_url": "https://news.qq.com/",
-						"url": "https://www.fre123.com/news/teng_xun_xin_wen",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f2809bfa0f.png",
-						"description": "中国最大新闻平台",
+						"title": "微软云",
+						"ori_url": "https://azure.microsoft.com/zh-cn/free/",
+						"url": "https://azure.microsoft.com/zh-cn/free/",
+						"icon": "https://dh.kejilion.pro/wp-content/themes/WebStack-1.1824/images/favicon.png",
+						"description": "免费1个月",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "微信热文",
-						"ori_url": "https://tophub.today/n/WnBe01o371",
-						"url": "https://www.fre123.com/news/douywei_xin_re_wenin",
-						"icon": "https://img.fre123.com/i/2023/12/05/656f469aecf87.png",
-						"description": "热门文章与资讯推荐",
+						"title": "谷歌云",
+						"ori_url": "https://cloud.google.com/?authuser=1",
+						"url": "https://cloud.google.com/?authuser=1",
+						"icon": "https://dh.kejilion.pro/wp-content/uploads/2024/02/unnamed-8.png",
+						"description": "免费3个月",
 						"suffix": false,
 						"is_show": false
 					},
