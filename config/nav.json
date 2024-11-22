@@ -1,15 +1,11 @@
 [
 	{
-		"group_name": "新闻资讯",
+		"group_name": "云服务器",
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
 			{
-				"tab_name": "新闻热点",
-				"upper_right_corner": {
-					"title": "热榜资讯汇总>>>",
-					"url": "https://www.fre123.com/news"
-				},
+				"tab_name": "云服务器-国内",
 				"details": [
 					{
 						"title": "微博热搜",
