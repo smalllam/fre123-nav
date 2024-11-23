@@ -150,6 +150,15 @@
 						"description": "9.89美元一年的服务器",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "AkileCloud",
+						"ori_url": "https://akile.io/register?aff_code=aefcf52f-4e17-40f8-b970-36f15ec18fc5",
+						"url": "https://akile.io/register?aff_code=aefcf52f-4e17-40f8-b970-36f15ec18fc5",
+						"icon": "https://img.dabaojian.cc/image/logo-d9acafa7.svg",
+						"description": "一家专注于全球大带宽解决方案的云服务商",
+						"suffix": false,
+						"is_show": true
 					}
 				]
 			},
