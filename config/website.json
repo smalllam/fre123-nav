@@ -2,7 +2,7 @@
 	"base": {
 		"app_name": "Net Fly",
 		"web_host": "https://www.fre123.com",
-		"logo": "../config/nav.json/img/lansehuojian-logo.png"
+		"logo": "../config/img/lansehuojian-logo.png"
 	},
 	"seo": {
 		"title": "Net Fly",
