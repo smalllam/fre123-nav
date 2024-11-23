@@ -225,6 +225,14 @@
 						"is_show": true
 					},
 					{
+						"title": "VPS Hosting Service",
+						"url": "https://vpshostingservice.co/login",
+						"icon": "http://www.w3.org/2000/svg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "starrydns",
 						"url": "https://my.starrydns.com/aff.php?aff=997",
 						"icon": "https://img.dabaojian.cc/image/favicon (2).ico",
@@ -381,6 +389,14 @@
 						"title": "is*hosting",
 						"url": "https://ishosting.com/affiliate/NDQ4MCM2",
 						"icon": "https://img.dabaojian.cc/image/favicon-32x32.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "VPS Hosting Service",
+						"url": "https://vpshostingservice.co/login",
+						"icon": "http://www.w3.org/2000/svg",
 						"description": " ",
 						"suffix": true,
 						"is_show": true
