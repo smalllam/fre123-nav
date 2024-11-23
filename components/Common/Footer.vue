@@ -6,10 +6,10 @@
 				<span
 					>Powered by
 					<a
-						href="https://www.fre123.com"
+						href="https://v50.my"
 						target="_blank"
 						class="decoration-transparent text-[#a4715c]"
-						>FRE123</a
+						>Net Fly</a
 					>
 				</span>
 			</div>
