@@ -271,6 +271,134 @@
 						"description": " ",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "justhost.asia",
+						"url": "https://justhost.asia/?ref=224019",
+						"icon": "https://img.dabaojian.cc/image/10022.jpg",
+						"description": "俄罗斯三网CN211RMB每月",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "LightNode",
+						"url": "https://www.lightnode.com/?inviteCode=506UEL&promoteWay=LINK",
+						"icon": "https://img.dabaojian.cc/image/10023.jpg",
+						"description": "埃及土耳其巴铁VPS",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "HostHatch",
+						"url": "https://cloud.hosthatch.com/a/4500",
+						"icon": "https://img.dabaojian.cc/image/10024.jpg",
+						"description": "性价比大盘鸡VPS",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "RCP",
+						"url": "https://clients.rcp.net/aff.php?aff=2601",
+						"icon": "https://img.dabaojian.cc/image/10025.jpg",
+						"description": "日本优质线路",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "LiteServer",
+						"url": "https://clients.liteserver.nl/aff.php?aff=787",
+						"icon": "https://img.dabaojian.cc/image/10026.png",
+						"description": "荷兰大盘鸡",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "netcup",
+						"url": "https://www.netcup.eu/",
+						"icon": "https://img.dabaojian.cc/image/10027.png",
+						"description": "欧洲大盘鸡3刀每月",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Hetzner",
+						"url": "https://www.hetzner.com/",
+						"icon": "https://img.dabaojian.cc/image/10028.png",
+						"description": "芬兰德国强机3刀每月",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "atlantic",
+						"url": "https://cloud.atlantic.net/",
+						"icon": "https://img.dabaojian.cc/image/10029.jpg",
+						"description": "大西洋可白嫖一年",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "iON Cloud",
+						"url": "https://ion.krypt.asia/login",
+						"icon": "https://img.dabaojian.cc/image/10030.png",
+						"description": "国区优化线路",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Xentain",
+						"url": "https://billing.xentain.com/aff.php?aff=90",
+						"icon": "https://img.dabaojian.cc/image/10031.png",
+						"description": "美国加拿大高防服务器",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "EasyVM",
+						"url": "https://portal.easyvm.net/aff.php?aff=174",
+						"icon": "https://img.dabaojian.cc/image/10032.jpg",
+						"description": "美国VPS15刀1年带防御",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Hostinger",
+						"url": "https://hostinger.com?REFERRALCODE=WS1JGAJAMMTT",
+						"icon": "https://img.dabaojian.cc/image/10033.png",
+						"description": "知名云服务运营商",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Spartan host",
+						"url": "https://billing.spartanhost.net/aff.php?aff=2610",
+						"icon": "https://img.dabaojian.cc/image/10034.jpg",
+						"description": "斯巴达美国机高防CN2",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "buyvm/frantech",
+						"url": "https://my.frantech.ca/aff.php?aff=7274",
+						"icon": "https://img.dabaojian.cc/image/10035.png",
+						"description": "抗诉且防御DDOS",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "silicloud",
+						"url": "https://www.silicloud.com/zh/activity/vps",
+						"icon": "https://img.dabaojian.cc/image/10036.jpg",
+						"description": "东京CN2GIA-9929",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "ColoCrossing",
+						"url": "https://cloud.colocrossing.com/aff.php?aff=465",
+						"icon": "https://img.dabaojian.cc/image/10037.png",
+						"description": "美国VPS12刀1年20T流量",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			},
