@@ -38,7 +38,7 @@
 						"title": "谷歌云",
 						"ori_url": "https://cloud.google.com/?authuser=1",
 						"url": "https://cloud.google.com/?authuser=1",
-						"icon": "https://img.dabaojian.cc/image/10009.jpg",
+						"icon": "https://img.dabaojian.cc/image/10009.png",
 						"description": "免费3个月",
 						"suffix": false,
 						"is_show": true
@@ -74,7 +74,7 @@
 						"title": "Linode",
 						"ori_url": "https://www.linode.com/lp/refer/?r=f05d4a5d52a881b036d4779bce805d5a2435d90a",
 						"url": "https://www.linode.com/lp/refer/?r=f05d4a5d52a881b036d4779bce805d5a2435d90a",
-						"icon": "https://img.dabaojian.cc/image/10012.jpg",
+						"icon": "https://img.dabaojian.cc/image/10012.png",
 						"description": "100美金2月",
 						"suffix": false,
 						"is_show": true
@@ -83,7 +83,7 @@
 						"title": "Gcore",
 						"ori_url": "https://gcore.com/",
 						"url": "https://gcore.com/",
-						"icon": "https://img.dabaojian.cc/image/10014.jpg",
+						"icon": "https://img.dabaojian.cc/image/10014.png",
 						"description": "云平台3欧元1个月",
 						"suffix": false,
 						"is_show": true
@@ -92,7 +92,7 @@
 						"title": "OVHcloud",
 						"ori_url": "https://www.ovhcloud.com/en-sg/",
 						"url": "https://www.ovhcloud.com/en-sg/",
-						"icon": "https://img.dabaojian.cc/image/10015.jpg",
+						"icon": "https://img.dabaojian.cc/image/10015.png",
 						"description": "老牌法国厂商",
 						"suffix": false,
 						"is_show": true
@@ -110,7 +110,7 @@
 						"title": "HostEONS",
 						"ori_url": "https://my.hosteons.com/aff.php?aff=1650",
 						"url": "https://my.hosteons.com/aff.php?aff=1650",
-						"icon": "https://img.dabaojian.cc/image/10017.jpg",
+						"icon": "https://img.dabaojian.cc/image/10017.png",
 						"description": "老牌厂商12美元一年",
 						"suffix": false,
 						"is_show": true
@@ -119,7 +119,7 @@
 						"title": "Layerstack",
 						"ori_url": "http://www.layerstack.com/?afmc=3m",
 						"url": "http://www.layerstack.com/?afmc=3m",
-						"icon": "https://img.dabaojian.cc/image/10018.jpg",
+						"icon": "https://img.dabaojian.cc/image/10018.png",
 						"description": "东亚北美主机有GIA线路",
 						"suffix": false,
 						"is_show": true
@@ -137,7 +137,7 @@
 						"title": "DMIT",
 						"ori_url": "https://www.dmit.io/aff.php?aff=4966",
 						"url": "https://www.dmit.io/aff.php?aff=4966",
-						"icon": "https://img.dabaojian.cc/image/10020.jpg",
+						"icon": "https://img.dabaojian.cc/image/10020.png",
 						"description": "优质VPS服务商",
 						"suffix": false,
 						"is_show": true
@@ -146,7 +146,7 @@
 						"title": "RackNerd",
 						"ori_url": "https://my.racknerd.com/aff.php?aff=5501",
 						"url": "https://my.racknerd.com/aff.php?aff=5501",
-						"icon": "https://img.dabaojian.cc/image/10021.jpg",
+						"icon": "https://img.dabaojian.cc/image/10021.png",
 						"description": "9.89美元一年的服务器",
 						"suffix": false,
 						"is_show": true
