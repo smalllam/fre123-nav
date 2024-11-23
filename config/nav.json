@@ -191,6 +191,14 @@
 						"description": " ",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "Sharon Networks",
+						"url": "https://whmcs.sharon.io/aff.php?aff=461",
+						"icon": "https://img.dabaojian.cc/image/g40xvdig.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			},
@@ -293,6 +301,14 @@
 						"title": "ZgoCloud",
 						"url": "https://clients.zgovps.com/?affid=455",
 						"icon": "https://img.dabaojian.cc/image/favicon (1).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Sharon Networks",
+						"url": "https://whmcs.sharon.io/aff.php?aff=461",
+						"icon": "https://img.dabaojian.cc/image/g40xvdig.png",
 						"description": " ",
 						"suffix": true,
 						"is_show": true
