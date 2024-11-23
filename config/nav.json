@@ -207,6 +207,22 @@
 						"description": " ",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "无忧云",
+						"url": "https://wuyoucloud.club/",
+						"icon": "https://img.dabaojian.cc/image/logo_big.587810038.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "is*hosting",
+						"url": "https://ishosting.com/affiliate/NDQ4MCM2",
+						"icon": "https://img.dabaojian.cc/image/favicon-32x32.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			},
@@ -341,6 +357,22 @@
 						"title": "阿辉互联",
 						"url": "https://www.hykvm.cn/aff/ZOZOAPSW",
 						"icon": "https://img.dabaojian.cc/image/logo1.jpg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "无忧云",
+						"url": "https://wuyoucloud.club/",
+						"icon": "https://img.dabaojian.cc/image/logo_big.587810038.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "is*hosting",
+						"url": "https://ishosting.com/affiliate/NDQ4MCM2",
+						"icon": "https://img.dabaojian.cc/image/favicon-32x32.png",
 						"description": " ",
 						"suffix": true,
 						"is_show": true
