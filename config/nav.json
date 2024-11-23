@@ -225,13 +225,14 @@
 				"tab_name": "云服务器-使用中",
 				"details": [
 					{
-						"title": "阮一峰的周刊",
-						"url": "https://www.fre123.com/weekly/ruanyifeng_weekly",
-						"icon": "https://img.fre123.com/i/2023/12/07/6570a316b2e86.jpeg",
-						"description": "这里记录每周值得分享的科技内容，周五发布",
-						"suffix": true,
+						"title": "AkileCloud",
+						"ori_url": "https://akile.io/register?aff_code=aefcf52f-4e17-40f8-b970-36f15ec18fc5",
+						"url": "https://akile.io/register?aff_code=aefcf52f-4e17-40f8-b970-36f15ec18fc5",
+						"icon": "https://img.dabaojian.cc/image/logo-d9acafa7.svg",
+						"description": "一家专注于全球大带宽解决方案的云服务商",
+						"suffix": false,
 						"is_show": true
-					},
+					}
 					{
 						"title": "老胡的信息周刊",
 						"url": "https://www.fre123.com/weekly/howie6879_weekly",
