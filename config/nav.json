@@ -484,10 +484,6 @@
 		"tab_list": [
 			{
 				"tab_name": "新闻热点",
-				"upper_right_corner": {
-					"title": "热榜资讯汇总>>>",
-					"url": "https://www.fre123.com/news"
-				},
 				"details": [
 					{
 						"title": "微博热搜",
