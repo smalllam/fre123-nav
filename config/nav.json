@@ -213,11 +213,7 @@
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "精选周刊大全>>>",
-					"url": "https://www.fre123.com/weekly"
-				},
-				"tab_name": "技术周刊",
+				"tab_name": "云服务器-使用中",
 				"details": [
 					{
 						"title": "阮一峰的周刊",
