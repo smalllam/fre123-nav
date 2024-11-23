@@ -399,6 +399,70 @@
 						"description": "美国VPS12刀1年20T流量",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "DigitalVirt",
+						"url": "https://digitalvirt.com/aff.php?aff=663",
+						"icon": "https://img.dabaojian.cc/image/favicon.webp",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Xihuan",
+						"url": "https://xihuancloud.com/index.php?rp=/login",
+						"icon": "https://img.dabaojian.cc/image/logo_big.467188635.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Churros",
+						"url": "https://churros.cloud/login",
+						"icon": "https://img.dabaojian.cc/image/地球アイコン9.svg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "ipraft",
+						"url": "https://ipraft.com/?i65e0b3",
+						"icon": "https://img.dabaojian.cc/image/favicon (5).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "TOTHOST",
+						"url": "https://billing.tothost.vn/aff.php?aff=156",
+						"icon": "https://img.dabaojian.cc/image/favicon (6).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Hytron Network",
+						"url": "https://idc.hytron.io/aff.php?aff=688",
+						"icon": "https://img.dabaojian.cc/image/hy.ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Sakura Clouds",
+						"url": "https://portal.sakuraclouds.com/aff.php?aff=55",
+						"icon": "https://img.dabaojian.cc/image/photo_2024-10-24_08-58-17.jpg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "虚妄猫IDC",
+						"url": "https://port.nomao.top/aff.php?aff=123",
+						"icon": "https://img.dabaojian.cc/image/photo_2021-07-19_19-27-48.jpg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			},
