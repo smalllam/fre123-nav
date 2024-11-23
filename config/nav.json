@@ -288,6 +288,14 @@
 						"description": " ",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "ZgoCloud",
+						"url": "https://clients.zgovps.com/?affid=455",
+						"icon": "https://img.dabaojian.cc/image/favicon (1).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			}
