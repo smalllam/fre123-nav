@@ -266,6 +266,14 @@
 						"description": "国内VPS上市公司",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "阿辉互联",
+						"url": "https://www.hykvm.cn/aff/ZOZOAPSW",
+						"icon": "https://img.dabaojian.cc/image/logo1.jpg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			},
@@ -325,6 +333,14 @@
 						"title": "六六云",
 						"url": "https://666clouds.com/aff.php?aff=1758",
 						"icon": "https://img.dabaojian.cc/image/66cloud.jpg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "阿辉互联",
+						"url": "https://www.hykvm.cn/aff/ZOZOAPSW",
+						"icon": "https://img.dabaojian.cc/image/logo1.jpg",
 						"description": " ",
 						"suffix": true,
 						"is_show": true
