@@ -159,7 +159,32 @@
 						"description": "一家专注于全球大带宽解决方案的云服务商",
 						"suffix": false,
 						"is_show": true
+					},
+					{
+						"title": "Ducky Cloud",
+						"url": "https://duckyci.com/",
+						"icon": "https://img.dabaojian.cc/image/light.svg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "BageVM",
+						"url": "https://www.bagevm.com/aff.php?aff=239",
+						"icon": "https://img.dabaojian.cc/image/logo-dark.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Lightlayer",
+						"url": "https://account.lightlayer.net/?affid=209",
+						"icon": "https://img.dabaojian.cc/image/favicon_32.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
+				]
 				]
 			},
 			{
@@ -237,6 +262,22 @@
 						"title": "Ducky Cloud",
 						"url": "https://duckyci.com/",
 						"icon": "https://img.dabaojian.cc/image/light.svg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "BageVM",
+						"url": "https://www.bagevm.com/aff.php?aff=239",
+						"icon": "https://img.dabaojian.cc/image/logo-dark.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Lightlayer",
+						"url": "https://account.lightlayer.net/?affid=209",
+						"icon": "https://img.dabaojian.cc/image/favicon_32.png",
 						"description": " ",
 						"suffix": true,
 						"is_show": true
