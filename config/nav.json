@@ -239,6 +239,38 @@
 						"description": " ",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "人民云",
+						"url": "https://www.people.wf/aff/JHFBDJIV",
+						"icon": "https://img.dabaojian.cc/image/favicon (3).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Polo Cloud",
+						"url": "https://www.people.wf/aff/JHFBDJICV",
+						"icon": "https://img.dabaojian.cc/image/vpfztpnm.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "globalvm",
+						"url": "https://globalvm.top/index.php",
+						"icon": "https://img.dabaojian.cc/image/polo.ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AzCloud",
+						"url": "https://azcloud.cc/aff/HSPMBPXO",
+						"icon": "https://img.dabaojian.cc/image/地球アイコン9.svg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			},
@@ -405,6 +437,38 @@
 						"title": "starrydns",
 						"url": "https://my.starrydns.com/aff.php?aff=997",
 						"icon": "https://img.dabaojian.cc/image/favicon (2).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "人民云",
+						"url": "https://www.people.wf/aff/JHFBDJIV",
+						"icon": "https://img.dabaojian.cc/image/favicon (3).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Polo Cloud",
+						"url": "https://www.people.wf/aff/JHFBDJICV",
+						"icon": "https://img.dabaojian.cc/image/vpfztpnm.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "globalvm",
+						"url": "https://globalvm.top/index.php",
+						"icon": "https://img.dabaojian.cc/image/polo.ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AzCloud",
+						"url": "https://azcloud.cc/aff/HSPMBPXO",
+						"icon": "https://img.dabaojian.cc/image/地球アイコン9.svg",
 						"description": " ",
 						"suffix": true,
 						"is_show": true
