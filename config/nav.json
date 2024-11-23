@@ -154,11 +154,7 @@
 				]
 			},
 			{
-				"upper_right_corner": {
-					"title": "技术资讯汇总>>>",
-					"url": "https://www.fre123.com/tech"
-				},
-				"tab_name": "技术资讯",
+				"tab_name": "云服务器-国内",
 				"details": [
 					{
 						"title": "Hacker News",
