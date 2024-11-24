@@ -639,6 +639,22 @@
 						"description": " ",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "Layer",
+						"url": "https://my.layer.ae/login",
+						"icon": "https://img.dabaojian.cc/image/he0cs6wp.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "OrangeVPS",
+						"url": "https://portal.orangevps.com/login",
+						"icon": "https://img.dabaojian.cc/image/favicon.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			},
