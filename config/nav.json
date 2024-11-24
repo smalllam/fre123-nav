@@ -591,6 +591,54 @@
 						"description": " ",
 						"suffix": true,
 						"is_show": true
+					},
+					{
+						"title": "Wawo",
+						"url": "https://wawo.wiki/aff.php?aff=181",
+						"icon": "https://img.dabaojian.cc/image/55e692ae-a024-4832-a997-aa0dbb8a09f4.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "GGVision",
+						"url": "https://cloud.ggvision.net/aff.php?aff=103",
+						"icon": "https://img.dabaojian.cc/image/地球アイコン9.svg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "LisaHost",
+						"url": "https://lisahost.com/aff.php?aff=1352",
+						"icon": "https://img.dabaojian.cc/image/favicon (8).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "VMOcean",
+						"url": "https://www.vmocean.com/",
+						"icon": "https://img.dabaojian.cc/image/photo_2024-11-09_09-30-43.jpg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "GeorgeDataCenter",
+						"url": "https://www.georgedatacenter.com/clients/aff.php?aff=176",
+						"icon": "https://img.dabaojian.cc/image/logo_08.png",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "ZLIDC",
+						"url": "https://zlidc.net/",
+						"icon": "https://img.dabaojian.cc/image/photo_2024-11-07_13-22-39.jpg",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
 					}
 				]
 			},
