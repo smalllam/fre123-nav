@@ -289,6 +289,14 @@
 						"is_show": true
 					},
 					{
+						"title": "CowCloud",
+						"url": "https://my.cowcloud.io/aff.php?aff=17",
+						"icon": "https://img.dabaojian.cc/image/favicon (9).ico",
+						"description": " ",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "Ducky Cloud",
 						"url": "https://duckyci.com/",
 						"icon": "https://img.dabaojian.cc/image/light.svg",
