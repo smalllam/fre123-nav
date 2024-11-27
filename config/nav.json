@@ -872,6 +872,7 @@
 	},
 	{
 		"group_name": "新闻资讯",
+		"is_show": false,
 		"style": 1,
 		"style_des": "标准风格",
 		"tab_list": [
