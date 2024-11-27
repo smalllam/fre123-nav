@@ -6,6 +6,7 @@
 		"tab_list": [
 			{
 				"tab_name": "云服务器-海外",
+				"is_show": false,
 				"details": [
 					{
 						"title": "甲骨文云",
