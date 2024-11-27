@@ -735,6 +735,7 @@
 			},
 			{
 				"tab_name": "云服务器-使用中",
+				"visible": false,
 				"details": [
 					{
 						"title": "AkileCloud",
