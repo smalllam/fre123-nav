@@ -734,7 +734,6 @@
 				]
 			},
 			{
-				"is_show": false,
 				"tab_name": "云服务器-使用中",
 				"details": [
 					{
@@ -2930,7 +2929,7 @@
 				"details": [
 					{
 						"title": "苹果专区",
-						"url": "https://www.fre123.com/#软件工具_苹果专区",
+						"url": "https://dh.20170503.xyz/#软件工具_苹果专区",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b6e043b45.ico",
 						"description": "MacOS 软件下载网站大全，持续更新！",
 						"suffix": false,
@@ -2938,7 +2937,7 @@
 					},
 					{
 						"title": "微软专区",
-						"url": "https://www.fre123.com/#软件工具_微软专区",
+						"url": "https://dh.20170503.xyz/#软件工具_微软专区",
 						"icon": "https://img.fre123.com/i/2024/01/17/65a6b70ea384c.ico",
 						"description": "Windows 软件下载网站大全，持续更新！",
 						"suffix": false,
